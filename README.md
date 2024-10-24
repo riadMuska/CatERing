@@ -1,1 +1,2 @@
 # CatERing
+This project aims to refine skills in iterative and incremental development. Specifically, starting from a client's description, functional and non-functional requirements of the application are gathered. After that, use cases are created to understand how the client wishes to use the application. The project also refers to XP (Extreme Programming), particularly in that tests are developed before the actual code, with the goal of understanding in advance the conditions that must be met to achieve an acceptable outcome.
